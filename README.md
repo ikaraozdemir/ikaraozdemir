@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikaraozdemir
+- 👋 Hi, I’m İrem.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me iremkaraozdemir@gmail.com
 
