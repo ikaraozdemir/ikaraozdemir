@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **REST API development**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **iremkaraozdemir@gmail.com**
 
