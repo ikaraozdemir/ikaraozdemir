@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İrem Kara Özdemir</h1>
+<h1 align="center">Hi 👋, I'm İrem </h1>
 
 - 🔭 I’m currently working on **REST API development**
 
